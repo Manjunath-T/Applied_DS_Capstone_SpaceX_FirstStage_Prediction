@@ -1,4 +1,4 @@
-# Coursera_Repo
+# Applied_DS_Capstone_SpaceX_FirstStage_Prediction
 
 This Report Contains All Steps performed in My Capstone Project: Prediction on SpaceX First Stage Re-Use.
 
